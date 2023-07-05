@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Skillbox/.idea/Skillbox.iml" filepath="$PROJECT_DIR$/../Skillbox/.idea/Skillbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Skillbox/homework_skillbox/.idea/homework_skillbox.iml" filepath="$PROJECT_DIR$/../Skillbox/homework_skillbox/.idea/homework_skillbox.iml" />
+    </modules>
+  </component>
+</project>
